@@ -1,0 +1,12 @@
+flask
+flask-login
+flask-sqlalchemy
+pandas
+openpyxl
+werkzeug==2.3.3
+flask==2.2
+flask_sqlalchemy
+flask_login
+pandas
+psycopg2-binary
+gunicorn
